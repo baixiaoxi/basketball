@@ -1,0 +1,44 @@
+{"frames": {
+
+"InitBg.png":
+{
+	"frame": {"x":2,"y":2,"w":1920,"h":1078},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1078},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"InitHelp.png":
+{
+	"frame": {"x":1924,"y":295,"w":63,"h":64},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":64},
+	"sourceSize": {"w":63,"h":64}
+},
+"InitLogo.png":
+{
+	"frame": {"x":2,"y":1082,"w":762,"h":233},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":762,"h":233},
+	"sourceSize": {"w":762,"h":233}
+},
+"InitPlayBtn.png":
+{
+	"frame": {"x":1924,"y":2,"w":291,"h":101},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":101},
+	"sourceSize": {"w":291,"h":101}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "InitAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3cce0076b937555a2a355b56597c7465$"
+}
+}

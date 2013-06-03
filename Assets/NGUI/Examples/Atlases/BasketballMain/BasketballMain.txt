@@ -1,0 +1,36 @@
+{"frames": {
+
+"BasketballMainBg.png":
+{
+	"frame": {"x":2,"y":2,"w":1920,"h":1078},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1078},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"BasketballMainPlayBtn.png":
+{
+	"frame": {"x":1924,"y":2,"w":292,"h":101},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":101},
+	"sourceSize": {"w":292,"h":101}
+},
+"BasketballMainTips.png":
+{
+	"frame": {"x":1924,"y":296,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BasketballMain.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:63adfc3f1318dc5f682029716202ad2b$"
+}
+}

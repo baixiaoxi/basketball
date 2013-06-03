@@ -1,0 +1,28 @@
+{"frames": {
+
+"Bb_UI_17.png":
+{
+	"frame": {"x":2,"y":64,"w":80,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":125},
+	"sourceSize": {"w":80,"h":125}
+},
+"ScoreFont (1).png":
+{
+	"frame": {"x":2,"y":2,"w":248,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":248,"h":60},
+	"sourceSize": {"w":256,"h":256}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "FontScore.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:77649628760eb6ab1eae143820aa7944$"
+}
+}
